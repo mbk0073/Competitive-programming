@@ -6,9 +6,11 @@ using namespace std;
 
 long long  input[3];
 int main()
-{
+{fesf
+sefavas
     while(cin>>input[0]>>input[1]>>input[2])
     {
+fsefs
         long long  n=input[0]+input[1]+input[2];
         sort(input,input+3);
         if(input[2]==0)
